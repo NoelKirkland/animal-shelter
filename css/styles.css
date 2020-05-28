@@ -1,0 +1,30 @@
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+  height: 1000px;
+  margin: 15px;
+  background-color: whitesmoke;
+}
+
+.col-1 {
+  background-color: skyblue;
+  border: 2px;
+  border-color: black;
+}
+
+.col-2 {
+
+}
+
+.col-3 {
+
+}
+
+.col-4 {
+
+}
+
+img {
+
+}
